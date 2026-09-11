@@ -1,11 +1,12 @@
 # Registro de verificación
 
-Fecha: 10 de septiembre de 2026 (Argentina).
+Fecha: 11 de septiembre de 2026 (Argentina).
 
 - Build de producción: TypeScript y Vite completados correctamente.
 - Portada revisada visualmente en escritorio y móvil. Tipografías locales reparadas al eliminar una duplicación de la ruta base en desarrollo.
 - Catorce secciones principales recorridas en navegador a 390 px: sin desborde horizontal ni imágenes fallidas detectadas en cada recorrido.
 - Tienda: filtro Merchandising muestra dos productos; selección completa de ocho; variantes blanca/gris cambian foto y destino de compra; control de dorso cambia a frente. Destinos externos comprobados mediante URL pública, sin realizar compras.
+- Tienda móvil corregida el 11 de septiembre: una tarjeta por fila a 360 y 390 px, fotografías completas con `object-fit: contain`, títulos de 27 px y llamadas a la compra de 12 px. Sin recortes, superposición ni desplazamiento horizontal.
 - Fixture: tres próximos compromisos, cuatro resultados y 18 equipos en posiciones; 18 imágenes de escudos cargadas en la tabla.
 - Noticias: búsqueda sin coincidencias y recuperación de seis publicaciones; noticia ampliada, copia de enlace y enlace de WhatsApp comprobados.
 - Galería: avance circular de 5/5 a 1/5, apertura y cierre de modal.
