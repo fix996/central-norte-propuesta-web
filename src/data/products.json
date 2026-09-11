@@ -1,0 +1,50 @@
+[
+  {
+    "id": "titular",
+    "name": "CAMISETA TITULAR NEGRA CENTRAL NORTE - TEMPORADA 2026",
+    "url": "https://www.tienda1921.com.ar/productos/camiseta-titular-negra-central-norte-temporada-2026-1hp6b/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "suplente",
+    "name": "CAMISETA ALTERNATIVA BLANCA - TEMPORADA 2026",
+    "url": "https://www.tienda1921.com.ar/productos/camiseta-alternativa-blanca-temporada-2026-pb0x2/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "alternativa",
+    "name": "CAMISETA ALTERNATIVA GRIS - CENTRAL NORTE 2026",
+    "url": "https://www.tienda1921.com.ar/productos/camiseta-hecha-para-brillar-central-norte-2026-vp1mx/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "entrenamiento",
+    "name": "CAMISETA DE ENTRENAMIENTO NEGRA CENTRAL NORTE - TEMPORADA 2026",
+    "url": "https://www.tienda1921.com.ar/productos/camiseta-de-entrenamiento-negra-central-norte-temporada-2026-1tau4/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "campera",
+    "name": "CAMPERA DE SALIDA - BLANCA - CENTRAL NORTE",
+    "url": "https://www.tienda1921.com.ar/productos/campera-de-salida-blanca-central-norte-7dxy6/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "short",
+    "name": "SHORT DE JUEGO BLANCO CENTRAL NORTE - TEMPORADA 2026",
+    "url": "https://www.tienda1921.com.ar/productos/short-de-juego-blanco-central-norte-temporada-2026-qmp87/",
+    "category": "Indumentaria"
+  },
+  {
+    "id": "mate",
+    "name": "MATE DE ACERO - CENTRAL NORTE",
+    "url": "https://www.tienda1921.com.ar/productos/mate/",
+    "category": "Merchandising"
+  },
+  {
+    "id": "botella",
+    "name": "BOTELLA TÉRMICA - CENTRAL NORTE",
+    "url": "https://www.tienda1921.com.ar/productos/botter/",
+    "category": "Merchandising"
+  }
+]

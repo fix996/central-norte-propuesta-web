@@ -1,0 +1,98 @@
+{
+  "verifiedAt": "2026-09-08",
+  "competition": "Primera Nacional 2026",
+  "zone": "Zona A",
+  "scheduleNotice": "Fechas sujetas a programación oficial. Horarios y estadios futuros por confirmar.",
+  "matches": [
+    {
+      "date": "2026-09-12",
+      "home": "Ciudad de Bolívar",
+      "away": "Central Norte",
+      "round": 29,
+      "status": "Próximo",
+      "score": null,
+      "stadium": "Por confirmar",
+      "time": null
+    },
+    {
+      "date": "2026-09-20",
+      "home": "Central Norte",
+      "away": "Defensores de Belgrano",
+      "round": 30,
+      "status": "Por confirmar",
+      "score": null,
+      "stadium": "Por confirmar",
+      "time": null
+    },
+    {
+      "date": "2026-09-26",
+      "home": "Deportivo Madryn",
+      "away": "Central Norte",
+      "round": 31,
+      "status": "Por confirmar",
+      "score": null,
+      "stadium": "Por confirmar",
+      "time": null
+    },
+    {
+      "date": "2026-09-06",
+      "home": "Central Norte",
+      "away": "Almirante Brown",
+      "round": 28,
+      "status": "Finalizado",
+      "score": "0 – 0",
+      "stadium": "Padre Ernesto Martearena",
+      "time": "17:00"
+    },
+    {
+      "date": "2026-08-30",
+      "home": "Mitre (SdE)",
+      "away": "Central Norte",
+      "round": 27,
+      "status": "Finalizado",
+      "score": "2 – 2",
+      "stadium": "",
+      "time": null
+    },
+    {
+      "date": "2026-08-26",
+      "home": "Central Norte",
+      "away": "Deportivo Morón",
+      "round": 21,
+      "status": "Finalizado",
+      "score": "0 – 0",
+      "stadium": "",
+      "time": null
+    },
+    {
+      "date": "2026-08-22",
+      "home": "Central Norte",
+      "away": "Estudiantes (BA)",
+      "round": 26,
+      "status": "Finalizado",
+      "score": "2 – 1",
+      "stadium": "",
+      "time": null
+    }
+  ],
+  "standings": [
+    ["Ferro Carril Oeste", 54, 28, 9],
+    ["Deportivo Morón", 52, 28, 19],
+    ["Deportivo Madryn", 46, 28, 15],
+    ["Godoy Cruz", 46, 28, 9],
+    ["Colón", 45, 28, 12],
+    ["Almirante Brown", 45, 28, 7],
+    ["Ciudad de Bolívar", 38, 28, -2],
+    ["Estudiantes (BA)", 36, 28, 0],
+    ["Los Andes", 35, 27, 5],
+    ["Racing (Córdoba)", 35, 28, -7],
+    ["Chaco For Ever", 32, 28, -3],
+    ["Mitre (SdE)", 31, 28, -8],
+    ["All Boys", 31, 28, -8],
+    ["Central Norte", 30, 28, -8],
+    ["Defensores de Belgrano", 29, 27, -5],
+    ["San Miguel", 29, 28, -10],
+    ["San Telmo", 28, 28, -11],
+    ["Acassuso", 23, 28, -14]
+  ]
+}
